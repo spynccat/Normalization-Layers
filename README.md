@@ -1,5 +1,5 @@
 # Normalization-Layers
-**TensorFlow：**完成batch normalization的基层实现
+**Numpy：**完成batch normalization的基层实现：前向传播和反向传播
 
 题目要求：
 
