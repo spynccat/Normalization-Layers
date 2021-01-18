@@ -3,10 +3,10 @@
 
 题目要求：
 
-1.  题目1：实现训练过程中batch normalization 层的前向传播；实现测试过程中batch
+1.  题目1：在batchnormalization.py文件中实现训练过程中batch normalization 层的前向传播；实现测试过程中batch
     normalization层的前向传播[1]（20分）
 
-2.  题目2：实现batch normalization层的反向传播，将结果保存在dx, dgamma,
+2.  题目2：在batchnormalization.py文件中实现batch normalization层的反向传播，将结果保存在dx, dgamma,
     dbeta三个变量中（20分）
 
 **PyTorch：**利用PyTorch中常用的normalization函数实现BN[5]，LN[6]，IN[8]，GN[7]及改进ResNet[3]在CIFAR数据集上的表现[2]
