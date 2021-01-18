@@ -13,7 +13,7 @@
 
 题目要求：
 
-1.  题目1：根据对BN，LN，IN，GN的理解，完成BLOCK
+1.  题目1：根据对BN，LN，IN，GN的理解，完成norm.ipynb文件中BLOCK
     1.1和1.2两处的程序填空并正确运行（20分）
 
 2.  题目2：完成去掉normalization的程序版本并比较实验结果，同时自行查阅资料分析normalization的作用
