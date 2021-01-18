@@ -19,16 +19,21 @@
 2.  题目2：完成去掉normalization的程序版本并比较实验结果，同时自行查阅资料分析normalization的作用
     （20分）
 
-3.  题目3：查阅资料了解CIFAR10，CIFAR100数据集上:ResNet表现，改进该网络中不适用于CIFAR数据集的结构
-    //斜线内删掉 （20分）
+3.  题目3：查阅资料了解CIFAR10，CIFAR100数据集上:ResNet表现，改进该网络中不适用于CIFAR数据集的结构（20分）
+
+    //斜线内正式采用时删掉 
 
     其中一些可改进的问题：
 
     1.  第一层卷积kernel_size过大，不适用于CIFAR10/100小尺寸图片
 
     2.  同理，第一层卷积后maxpool过早
+    
+    //
 
-    3.  附加题bonus：基本复现ResNet在CIFAR上的最好评分
+附加题bonus：基本复现ResNet在CIFAR上的最好评分
+    
+    
 
 **数据集：**
 
